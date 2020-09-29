@@ -1,4 +1,4 @@
-# Portfolio
-This is my preview ability in programming. I've made many codes with C and Python. Also i learned about PHP, HTML, SQL ,and little bit CSS.
+# C Programming
 
-Beside all of that programming language, i also play with CTF (Capture the Flag) and break down machines in VulnHub.
+Here are some c programming codes that I created during college. Sorry that the naming of the file itself messed up, because I made it based on the question's problem. It may not be the best and fastest solution but it is working properly.
+:))
